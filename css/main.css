@@ -1,11 +1,13 @@
 h1 {
-	color: #79756f;
+	color: #ffffff;
 	font-family: 'Bevan', normal;
 	font-weight: normal;
 	font-size: 2rem;
 	line-height: 1;
 }
-
+.something {
+	background-color: grey;
+}
 h2 {
 	color: #79756f;
 	font-family: 'Bevan', normal;
@@ -82,7 +84,7 @@ nav li {
 nav a {
 	display: inline-block;
 	padding: 0.5em 0.75em;
-	background-color: magenta;
+	background-color: #703838;
 	text-decoration: none;
 	color: white;
 	bored-radius: 3em 9em 2em 9em;
