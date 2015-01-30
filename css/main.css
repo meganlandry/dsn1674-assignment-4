@@ -37,6 +37,11 @@ body {
 	color: #000000;
 	line-height: 1.5;
 	font-family: 'Arial', normal;
+	margin: 0;
+}
+
+main {
+	margin: 0;
 }
 
 q {
@@ -96,12 +101,15 @@ nav a {
 	border-radius: 0.5em 
 }
 
- footer {
+footer {
+	background-color: #79756f;
+	border-radius: 0.5em
+}
+
+ footer h3 {
  	color: white;
  	font-family: 'Bevan', normal;
  	font-size: 2rem;
- 	background-color: #79756f;
-	border-radius: 0.5em
 
  }
 
@@ -109,7 +117,5 @@ nav a {
  	color: #703838;
  	font-family: 'Bevan', normal;
  	font-size: 0.7rem;
- 	background-color: #79756f;
-	border-radius: 0.5em
 
  }
