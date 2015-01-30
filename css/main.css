@@ -4,9 +4,12 @@ h1 {
 	font-weight: normal;
 	font-size: 2rem;
 	line-height: 1;
+	text-align: center;
+
 }
-.something {
-	background-color: grey;
+
+header {
+	background-color: #79756f;
 }
 h2 {
 	color: #79756f;
@@ -69,11 +72,12 @@ b {
 
 nav {
 	background-color: #79756f;
+	margin: 2;
 }
 
 nav ul {
 	list-style-type: none;
-	padding: 0;
+	padding: 0.5;
 	margin: 0;
 }
 
@@ -83,9 +87,9 @@ nav li {
 
 nav a {
 	display: inline-block;
-	padding: 0.5em 0.75em;
+	padding: 1em 1em;
 	background-color: #703838;
 	text-decoration: none;
 	color: white;
-	bored-radius: 3em 9em 2em 9em;
+	border-radius: 0.5em 
 }
