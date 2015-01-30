@@ -11,9 +11,11 @@ h1 {
 header {
 	background-color: #79756f;
 }
+
 h2 {
 	color: #79756f;
 	font-family: 'Bevan', normal;
+
 }
 
 h3 {
@@ -93,3 +95,21 @@ nav a {
 	color: white;
 	border-radius: 0.5em 
 }
+
+ footer {
+ 	color: white;
+ 	font-family: 'Bevan', normal;
+ 	font-size: 2rem;
+ 	background-color: #79756f;
+	border-radius: 0.5em
+
+ }
+
+ footer ul {
+ 	color: #703838;
+ 	font-family: 'Bevan', normal;
+ 	font-size: 0.7rem;
+ 	background-color: #79756f;
+	border-radius: 0.5em
+
+ }
