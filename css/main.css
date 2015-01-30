@@ -1,0 +1,61 @@
+h1 {
+	color: #79756f;
+	font-family: 'Bevan', normal;
+	font-weight: normal;
+	font-size: 2rem;
+	line-height: 1;
+}
+
+h2 {
+	color: #79756f;
+	font-family: 'Bevan', normal;
+}
+
+h3 {
+	color: #79756f;
+	font-family: 'Bevan', normal;
+}
+
+html {
+	background-color: #dbd6cf;
+	color: #fff;
+}
+
+
+dl {
+	color: #000000;
+}
+
+body {
+	color: #000000;
+	line-height: 1.5;
+	font-family: 'Arial', normal;
+}
+
+q {
+	font-size: 1.2rem;
+	font-family: 'serif', italic;
+	line-height: 1.2;
+}
+
+a {
+	color: #713837;
+}
+
+a:hover {
+	color: red;
+}
+
+blockquote {
+	color: #79756f;
+	text-align: right;
+	font-size: 0.7rem;
+}
+
+figcaption {
+	font-size: 0.7rem;
+}
+
+dl {
+	line-height: 0.5;
+}
