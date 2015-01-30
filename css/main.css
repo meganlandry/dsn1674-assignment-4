@@ -59,3 +59,31 @@ figcaption {
 dl {
 	line-height: 0.5;
 }
+
+b {
+	color: #79756f;
+	font-weight: normal; 
+}
+
+nav {
+	background-color: #79756f;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	display: inline-block;
+	padding: 0.5em 0.75em;
+	background-color: magenta;
+	text-decoration: none;
+	color: white;
+	bored-radius: 3em 9em 2em 9em;
+}
